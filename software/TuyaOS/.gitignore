@@ -8,7 +8,6 @@
 /samples
 
 # generated
-/output/
 /docs/
 /crash.log
 /tmp
@@ -17,6 +16,5 @@
 .config*
 
 /libs
-apps/*/output
 build
 
